@@ -1,0 +1,31 @@
+body{
+    bouder-color: red
+    bouder-style: solid
+    bouder-width: 1px
+}
+body{
+    background:skyblue; margin-top:0%;margin-left: 10%;margin-right :10%; 
+    margin-bottom: 0%;
+}
+.classe1{
+    background: rgb(211, 70, 124);
+    font-size: 20px;
+    text-align: center;
+}
+.classe2{
+    background: chocolate;
+    font-size: 20px;
+    text-align: center;
+}
+.classe3{
+    background: crimson;
+    font-size: 20px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+a:link{
+    text-decoration: none;
+}
+  
